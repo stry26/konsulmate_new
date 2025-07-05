@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891293289886",
+    "project_id": "konsulmate-277d1",
+    "storage_bucket": "konsulmate-277d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891293289886:android:26873b0d0196cabffd9a8f",
+        "android_client_info": {
+          "package_name": "com.example.Konsulmate_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVpry5fWlwdQG0ym0LMxepGi0K7_7DIgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
